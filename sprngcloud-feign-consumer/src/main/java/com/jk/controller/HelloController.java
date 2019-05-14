@@ -49,6 +49,7 @@ public class HelloController {
         System.out.println(66666);
          System.out.println(22222);
         System.out.println(22222);
+        System.out.println(66666);
         System.out.println(44444);
         return schedualServiceHi.helloUser( user );
     }
