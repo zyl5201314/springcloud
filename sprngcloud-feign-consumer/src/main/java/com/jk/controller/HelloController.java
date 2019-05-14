@@ -46,6 +46,7 @@ public class HelloController {
         user.setUserName("李四");
         System.out.println(1111);
         System.out.println(66666);
+        System.out.println(66666);
          System.out.println(22222);
         System.out.println(22222);
         System.out.println(44444);
